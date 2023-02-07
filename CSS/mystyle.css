@@ -281,7 +281,7 @@ body {
         padding-top: 92px;
         padding-left: 23px;
         padding-right: 23px;
-        padding-bottom: 50px;
+        padding-bottom: 12px;
         color: #825283;
     }
 
@@ -1267,7 +1267,7 @@ body {
 
     .flex-container_about > div h3 {
         color: #825283;
-        font-size: 21px;
+        font-size: 14px;
         text-align: left;
         margin-top: 18px;
         line-height: 43px;
